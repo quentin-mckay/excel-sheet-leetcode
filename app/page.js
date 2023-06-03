@@ -24,7 +24,7 @@ const Home = () => {
 
     return (
         <div className='min-h-screen bg-slate-800 grid place-items-center text-white'>
-            <div className='w-full px-16'>
+            <div className=' max-w-7xl px-16'>
                 <p className='text-3xl'>
                     Input Column:{' '}
                     <span className='text-amber-500'>{columnNumber}</span>
